@@ -1,15 +1,13 @@
 ---
-title: プラグイン導入方法
+title: phương pháp cài đặt plugin
 keywords: plugin install プラグイン
 tags: [quickstart, getting_started]
 sidebar: home_sidebar
 permalink: plugin_install
 ---
 
-### オーナーズストアからの導入
-アカウントを作成されていない方は、[こちら](https://www.ec-cube.net/entry/)より新規会員登録をお願いします。  
-→既にアカウントを作成されている方は、普段お使いのアカウントをご利用ください。
-
+### Cài đặt từ chủ của hàng
+Nếu không tạo được tài khoản thì làm theo link này https://www.ec-cube.net/entry/
 1. EC-CUBEのオーナーズストアの[サイト](https://www.ec-cube.net/owners/)より目当てのプラグインを探して購入します。
 ![オーナーズストア](/images/plugin/plugin-01.png)  
 「購入する」ボタンを押して購入完了します。
